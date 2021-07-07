@@ -1,5 +1,7 @@
 # Death Star Game journey
 
+[merged into https://github.com/DeathStarGame/DeathStarGame]
+
 - video episodes/documentary/production vlog of the Death Star Game project journey
 - inpisred by wathcing "Long Way Up" with Ewan McGregor
     - https://www.google.com/search?q=long+way+up
